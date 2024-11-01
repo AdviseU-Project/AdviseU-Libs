@@ -1,0 +1,26 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Nicolas\Downloads\ClassScraper\target\scala-3.5.1\classes ...
+[error] -- [E008] Not Found Error: C:\Users\Nicolas\Downloads\ClassScraper\src\main\scala\CourseScraper.scala:28:89 
+[error] 28 |		(block >> elementList(".courseblockextra")).filter(extra => (extra >?> text("strong")).getOrDefault("").startsWith
+[error]    |		                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[error]    |value getOrDefault is not a member of Option[String], but could be made available as an extension method.
+[error]    |
+[error]    |The following import might make progress towards fixing the problem:
+[error]    |
+[error]    |  import scalaz.Leibniz.subst
+[error]    |
+[error] -- [E008] Not Found Error: C:\Users\Nicolas\Downloads\ClassScraper\src\main\scala\CourseScraper.scala:31:89 
+[error] 31 |		(block >> elementList(".courseblockextra")).filter(extra => (extra >?> text("strong")).getOrDefault("").startsWith
+[error]    |		                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[error]    |value getOrDefault is not a member of Option[String], but could be made available as an extension method.
+[error]    |
+[error]    |The following import might make progress towards fixing the problem:
+[error]    |
+[error]    |  import scalaz.Leibniz.subst
+[error]    |
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 3 s, completed Oct 12, 2024, 1:24:37 AM
+[debug] > Exec(idea-shell, None, None)
