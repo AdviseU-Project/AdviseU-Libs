@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "classscraper-build",
-        "directory": "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project",
-        "workspaceDir": "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project",
+        "directory": "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project",
+        "workspaceDir": "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project",
         "sources": [
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\src\\main\\scala",
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\src\\main\\scala-2.12",
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\src\\main\\scala-2",
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\src\\main\\java",
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\src\\main\\scala-sbt-1.0",
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\src\\main\\scala",
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\src\\main\\scala-2.12",
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\src\\main\\scala-2",
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\src\\main\\java",
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\src\\main\\scala-sbt-1.0",
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
         ],
         "dependencies": [
             
@@ -18,10 +18,10 @@
         "classpath": [
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbt\\1.9.9\\sbt-1.9.9.jar",
             "C:\\Users\\Nicolas\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar",
-            "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.6.0\\sbt-bloop_2.12_1.0-1.6.0.jar",
+            "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.3\\sbt-bloop_2.12_1.0-2.0.3.jar",
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main_2.12\\1.9.9\\main_2.12-1.9.9.jar",
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\io_2.12\\1.9.9\\io_2.12-1.9.9.jar",
-            "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.2\\bloop-config_2.12-2.0.2.jar",
+            "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.3\\bloop-config_2.12-2.0.3.jar",
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\logic_2.12\\1.9.9\\logic_2.12-1.9.9.jar",
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\actions_2.12\\1.9.9\\actions_2.12-1.9.9.jar",
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main-settings_2.12\\1.9.9\\main-settings_2.12-1.9.9.jar",
@@ -105,11 +105,11 @@
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.3\\reactive-streams-1.0.3.jar",
             "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.4.2\\config-1.4.2.jar"
         ],
-        "out": "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\.bloop\\classscraper-build",
-        "classesDir": "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\.bloop\\classscraper-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\.bloop\\classscraper-build",
+        "classesDir": "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\.bloop\\classscraper-build\\scala-2.12\\sbt-1.0\\classes",
         "resources": [
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\src\\main\\resources",
-            "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\src\\main\\resources",
+            "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -216,7 +216,7 @@
             "config": {
                 "home": "C:\\Program Files\\Java\\jdk-17.0.5",
                 "options": [
-                    "-Duser.dir=C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project"
+                    "-Duser.dir=C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project"
                 ]
             },
             "mainClass": [
@@ -225,13 +225,13 @@
             "runtimeConfig": {
                 "home": "C:\\Program Files\\Java\\jdk-17.0.5",
                 "options": [
-                    "-Duser.dir=C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project"
+                    "-Duser.dir=C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project"
                 ]
             },
             "classpath": [
-                "C:\\Users\\Nicolas\\Downloads\\ClassScraper\\project\\.bloop\\classscraper-build\\scala-2.12\\sbt-1.0\\classes",
-                "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.6.0\\sbt-bloop_2.12_1.0-1.6.0.jar",
-                "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.2\\bloop-config_2.12-2.0.2.jar",
+                "C:\\Users\\Nicolas\\Documents\\AdviseU-Libs\\ClassScraper\\project\\.bloop\\classscraper-build\\scala-2.12\\sbt-1.0\\classes",
+                "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.3\\sbt-bloop_2.12_1.0-2.0.3.jar",
+                "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.3\\bloop-config_2.12-2.0.3.jar",
                 "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.4.0\\jsoniter-scala-core_2.12-2.4.0.jar",
                 "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lihaoyi\\unroll-annotation_2.12\\0.1.12\\unroll-annotation_2.12-0.1.12.jar",
                 "C:\\Users\\Nicolas\\.sbt\\boot\\scala-2.12.18\\lib\\scala-library.jar"
@@ -242,34 +242,34 @@
                 {
                     "organization": "ch.epfl.scala",
                     "name": "sbt-bloop",
-                    "version": "1.6.0",
+                    "version": "2.0.3",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "sbt-bloop",
-                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.6.0\\sbt-bloop_2.12_1.0-1.6.0.jar"
+                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.3\\sbt-bloop_2.12_1.0-2.0.3.jar"
                         },
                         {
                             "name": "sbt-bloop",
                             "classifier": "sources",
-                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.6.0\\sbt-bloop_2.12_1.0-1.6.0-sources.jar"
+                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.3\\sbt-bloop_2.12_1.0-2.0.3-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "ch.epfl.scala",
                     "name": "bloop-config_2.12",
-                    "version": "2.0.2",
+                    "version": "2.0.3",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "bloop-config_2.12",
-                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.2\\bloop-config_2.12-2.0.2.jar"
+                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.3\\bloop-config_2.12-2.0.3.jar"
                         },
                         {
                             "name": "bloop-config_2.12",
                             "classifier": "sources",
-                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.2\\bloop-config_2.12-2.0.2-sources.jar"
+                            "path": "C:\\Users\\Nicolas\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.3\\bloop-config_2.12-2.0.3-sources.jar"
                         }
                     ]
                 },

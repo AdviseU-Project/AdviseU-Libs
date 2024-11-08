@@ -707,3 +707,278 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2dfc1d6
 2024.11.01 09:10:42 INFO  running doctor check
 2024.11.01 09:10:42 INFO  java targets: root-test, classscraper-build, root
 2024.11.01 09:10:52 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.08 13:35:31 INFO  Started: Metals version 1.4.0 in folders 'C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper' for client Visual Studio Code 1.94.2.
+2024.11.08 13:35:37 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.08 13:35:37 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:39 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:39 INFO  Attempting to connect to the build server...
+2024.11.08 13:35:39 INFO  Found a Bloop server running
+2024.11.08 13:35:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:35:40 INFO  Attempting to connect to the build server...
+2024.11.08 13:35:40 INFO  Found a Bloop server running
+2024.11.08 13:35:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:35:40 INFO  time: Connected to build server in 2.05s
+2024.11.08 13:35:40 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.08 13:35:41 INFO  time: Imported build in 0.12s
+2024.11.08 13:35:41 INFO  running doctor check
+2024.11.08 13:35:41 INFO  java targets: root-test, classscraper-build, root
+2024.11.08 13:35:42 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:46 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.08 13:35:49 INFO  time: indexed workspace in 7.55s
+2024.11.08 13:35:49 WARN  no build target for: C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala
+2024.11.08 13:35:49 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:49 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:50 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:50 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:50 WARN  no build target for: C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala
+2024.11.08 13:35:50 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:50 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:51 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:51 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:52 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:52 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:51 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:53 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:53 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:53 WARN  no build target for: C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala
+2024.11.08 13:35:53 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:35:54 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:00 INFO  time: code lens generation in 4.28s
+2024.11.08 13:36:20 INFO  running 'C:\Program Files\Java\jdk-17.0.5\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Nicolas\AppData\Local\Temp\metals181807178851387365\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.08 13:36:22 INFO  [info] welcome to sbt 1.9.9 (Oracle Corporation Java 17.0.5)
+2024.11.08 13:36:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:25 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:26 INFO  [info] loading global plugins from C:\Users\Nicolas\.sbt\1.0\plugins
+2024.11.08 13:36:25 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:30 INFO  [info] loading settings for project classscraper-build-build from metals.sbt ...
+2024.11.08 13:36:30 INFO  [info] loading project definition from C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\project
+2024.11.08 13:36:32 INFO  [info] loading settings for project classscraper-build from metals.sbt ...
+2024.11.08 13:36:32 INFO  [info] loading project definition from C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project
+2024.11.08 13:36:33 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:33 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:35 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:36:37 INFO  [success] Generated .bloop\classscraper-build.json
+2024.11.08 13:36:37 INFO  [success] Total time: 5 s, completed Nov 8, 2024, 1:36:38 PM
+2024.11.08 13:36:40 INFO  [info] loading settings for project root from build.sbt ...
+2024.11.08 13:36:40 INFO  [info] set current project to ClassScraper (in build file:/C:/Users/Nicolas/Documents/AdviseU-Libs/ClassScraper/)
+2024.11.08 13:36:42 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2024.11.08 13:36:42 INFO  [warn] Removed stale C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.bloop\root-test.json
+2024.11.08 13:36:42 INFO  [warn] Removed stale C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.bloop\root.json
+2024.11.08 13:36:42 INFO  [error] java.lang.RuntimeException: found version conflict(s) in library dependencies; some are suspected to be binary incompatible:
+2024.11.08 13:36:42 INFO  [error] 
+2024.11.08 13:36:42 INFO  [error] 	* com.softwaremill.sttp.client4:core_3:4.0.0-M14 (early-semver) is selected over 4.0.0-M6
+2024.11.08 13:36:42 INFO  [error] 	    +- classscraper:classscraper_3:0.1.0-SNAPSHOT         (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- com.softwaremill.sttp.client4:json-common_3:4.0.0-M14 (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- com.softwaremill.sttp.client4:upickle_3:4.0.0-M14  (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- org.scala-lang:toolkit_3:0.4.0                     (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- com.softwaremill.sttp.client4:core_3:4.0.0-M6      (depends on 4.0.0-M6)
+2024.11.08 13:36:42 INFO  [error] 
+2024.11.08 13:36:42 INFO  [error] 
+2024.11.08 13:36:42 INFO  [error] this can be overridden using libraryDependencySchemes or evictionErrorLevel
+2024.11.08 13:36:42 INFO  [error] 	at scala.sys.package$.error(package.scala:30)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:90)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:134)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:147)
+2024.11.08 13:36:42 INFO  [error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:147)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:128)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:161)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3801)
+2024.11.08 13:36:42 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2024.11.08 13:36:42 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2024.11.08 13:36:42 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.08 13:36:42 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.08 13:36:42 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.08 13:36:42 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.08 13:36:42 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.08 13:36:42 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2024.11.08 13:36:42 INFO  [error] (update) found version conflict(s) in library dependencies; some are suspected to be binary incompatible:
+2024.11.08 13:36:42 INFO  [error] 
+2024.11.08 13:36:42 INFO  [error] 	* com.softwaremill.sttp.client4:core_3:4.0.0-M14 (early-semver) is selected over 4.0.0-M6
+2024.11.08 13:36:42 INFO  [error] 	    +- classscraper:classscraper_3:0.1.0-SNAPSHOT         (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- com.softwaremill.sttp.client4:json-common_3:4.0.0-M14 (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- com.softwaremill.sttp.client4:upickle_3:4.0.0-M14  (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- org.scala-lang:toolkit_3:0.4.0                     (depends on 4.0.0-M14)
+2024.11.08 13:36:42 INFO  [error] 	    +- com.softwaremill.sttp.client4:core_3:4.0.0-M6      (depends on 4.0.0-M6)
+2024.11.08 13:36:42 INFO  [error] 
+2024.11.08 13:36:42 INFO  [error] 
+2024.11.08 13:36:42 INFO  [error] this can be overridden using libraryDependencySchemes or evictionErrorLevel
+2024.11.08 13:36:42 INFO  [error] Total time: 2 s, completed Nov 8, 2024, 1:36:42 PM
+2024.11.08 13:36:42 INFO  time: ran 'sbt bloopInstall' in 22s
+2024.11.08 13:36:42 ERROR sbt command failed: C:\Program Files\Java\jdk-17.0.5\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Nicolas\AppData\Local\Temp\metals181807178851387365\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2024.11.08 13:36:42 INFO  Disconnecting from Bloop session...
+2024.11.08 13:36:42 INFO  Shut down connection with build server.
+2024.11.08 13:36:42 INFO  Shut down connection with build server.
+2024.11.08 13:36:42 INFO  Attempting to connect to the build server...
+2024.11.08 13:36:42 INFO  Found a Bloop server running
+2024.11.08 13:36:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:36:43 INFO  Attempting to connect to the build server...
+2024.11.08 13:36:43 INFO  Found a Bloop server running
+2024.11.08 13:36:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:36:43 INFO  time: Connected to build server in 1.3s
+2024.11.08 13:36:43 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.08 13:36:43 INFO  running doctor check
+2024.11.08 13:36:43 INFO  java targets: classscraper-build
+2024.11.08 13:36:49 INFO  time: indexed workspace in 5.24s
+2024.11.08 13:36:49 WARN  no build target for: C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala
+2024.11.08 13:36:49 WARN  no build target for: C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala
+2024.11.08 13:36:49 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:36:51 INFO  time: code lens generation in 2.12s
+2024.11.08 13:37:13 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:13 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:14 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:32 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:32 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:32 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:32 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:33 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:33 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:37:39 INFO  running 'C:\Program Files\Java\jdk-17.0.5\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Nicolas\AppData\Local\Temp\metals2728589847327562479\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.08 13:37:47 INFO  [info] welcome to sbt 1.9.9 (Oracle Corporation Java 17.0.5)
+2024.11.08 13:37:53 INFO  [info] loading global plugins from C:\Users\Nicolas\.sbt\1.0\plugins
+2024.11.08 13:37:58 INFO  [info] loading settings for project classscraper-build-build from metals.sbt ...
+2024.11.08 13:37:58 INFO  [info] loading project definition from C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\project
+2024.11.08 13:38:00 INFO  [info] loading settings for project classscraper-build from metals.sbt ...
+2024.11.08 13:38:00 INFO  [info] loading project definition from C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project
+2024.11.08 13:38:10 INFO  [success] Generated .bloop\classscraper-build.json
+2024.11.08 13:38:10 INFO  [success] Total time: 10 s, completed Nov 8, 2024, 1:38:11 PM
+2024.11.08 13:38:21 INFO  [info] loading settings for project root from build.sbt ...
+2024.11.08 13:38:21 INFO  [info] set current project to ClassScraper (in build file:/C:/Users/Nicolas/Documents/AdviseU-Libs/ClassScraper/)
+2024.11.08 13:38:30 INFO  [success] Generated .bloop\root-test.json
+2024.11.08 13:38:31 INFO  [success] Generated .bloop\root.json
+2024.11.08 13:38:31 INFO  [success] Total time: 10 s, completed Nov 8, 2024, 1:38:31 PM
+2024.11.08 13:38:32 INFO  time: ran 'sbt bloopInstall' in 52s
+2024.11.08 13:38:32 INFO  Disconnecting from Bloop session...
+2024.11.08 13:38:32 INFO  Shut down connection with build server.
+2024.11.08 13:38:32 INFO  Shut down connection with build server.
+2024.11.08 13:38:32 INFO  Attempting to connect to the build server...
+2024.11.08 13:38:32 INFO  Found a Bloop server running
+2024.11.08 13:38:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:38:35 INFO  Attempting to connect to the build server...
+2024.11.08 13:38:35 INFO  Found a Bloop server running
+2024.11.08 13:38:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:38:36 INFO  time: Connected to build server in 4.53s
+2024.11.08 13:38:36 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.08 13:38:36 INFO  time: Imported build in 0.15s
+2024.11.08 13:38:36 INFO  running doctor check
+2024.11.08 13:38:36 INFO  java targets: root-test, classscraper-build, root
+2024.11.08 13:38:47 INFO  time: indexed workspace in 10s
+2024.11.08 13:38:47 INFO  compiling root (2 scala sources)
+2024.11.08 13:38:50 INFO  time: code lens generation in 2.04s
+2024.11.08 13:38:51 INFO  time: compiled root in 3.71s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.11.08 13:39:54 INFO  running 'C:\Program Files\Java\jdk-17.0.5\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Nicolas\AppData\Local\Temp\metals6689493020439294709\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.08 13:40:01 INFO  [info] welcome to sbt 1.9.9 (Oracle Corporation Java 17.0.5)
+2024.11.08 13:40:08 INFO  [info] loading global plugins from C:\Users\Nicolas\.sbt\1.0\plugins
+2024.11.08 13:40:13 INFO  [info] loading settings for project classscraper-build-build from metals.sbt ...
+2024.11.08 13:40:13 INFO  [info] loading project definition from C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\project
+2024.11.08 13:40:13 INFO  [info] loading settings for project classscraper-build from metals.sbt ...
+2024.11.08 13:40:14 INFO  [info] loading project definition from C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project
+2024.11.08 13:40:27 INFO  [success] Generated .bloop\classscraper-build.json
+2024.11.08 13:40:27 INFO  [success] Total time: 13 s, completed Nov 8, 2024, 1:40:28 PM
+2024.11.08 13:40:29 INFO  compiling root (2 scala sources)
+2024.11.08 13:40:39 INFO  [info] loading settings for project root from build.sbt ...
+2024.11.08 13:40:39 INFO  [info] set current project to ClassScraper (in build file:/C:/Users/Nicolas/Documents/AdviseU-Libs/ClassScraper/)
+2024.11.08 13:40:40 INFO  time: compiled root in 10s
+2024.11.08 13:40:45 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2024.11.08 13:40:45 INFO  [warn] Removed stale C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.bloop\root-test.json
+2024.11.08 13:40:45 INFO  [warn] Removed stale C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.bloop\root.json
+2024.11.08 13:40:45 INFO  [error] java.lang.RuntimeException: found version conflict(s) in library dependencies; some are suspected to be binary incompatible:
+2024.11.08 13:40:45 INFO  [error] 
+2024.11.08 13:40:45 INFO  [error] 	* com.softwaremill.sttp.client4:core_3:4.0.0-M19 (early-semver) is selected over {4.0.0-M14}
+2024.11.08 13:40:45 INFO  [error] 	    +- classscraper:classscraper_3:0.1.0-SNAPSHOT         (depends on 4.0.0-M19)
+2024.11.08 13:40:45 INFO  [error] 	    +- org.scala-lang:toolkit_3:0.4.0                     (depends on 4.0.0-M14)
+2024.11.08 13:40:45 INFO  [error] 	    +- com.softwaremill.sttp.client4:upickle_3:4.0.0-M14  (depends on 4.0.0-M14)
+2024.11.08 13:40:45 INFO  [error] 	    +- com.softwaremill.sttp.client4:json-common_3:4.0.0-M14 (depends on 4.0.0-M14)
+2024.11.08 13:40:45 INFO  [error] 
+2024.11.08 13:40:45 INFO  [error] 
+2024.11.08 13:40:45 INFO  [error] this can be overridden using libraryDependencySchemes or evictionErrorLevel
+2024.11.08 13:40:45 INFO  [error] 	at scala.sys.package$.error(package.scala:30)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:90)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:134)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:147)
+2024.11.08 13:40:45 INFO  [error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:147)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:128)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:161)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3801)
+2024.11.08 13:40:45 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2024.11.08 13:40:45 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2024.11.08 13:40:45 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.08 13:40:45 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.08 13:40:45 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.08 13:40:45 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.08 13:40:45 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.08 13:40:45 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:833)
+2024.11.08 13:40:45 INFO  [error] (update) found version conflict(s) in library dependencies; some are suspected to be binary incompatible:
+2024.11.08 13:40:45 INFO  [error] 
+2024.11.08 13:40:45 INFO  [error] 	* com.softwaremill.sttp.client4:core_3:4.0.0-M19 (early-semver) is selected over {4.0.0-M14}
+2024.11.08 13:40:45 INFO  [error] 	    +- classscraper:classscraper_3:0.1.0-SNAPSHOT         (depends on 4.0.0-M19)
+2024.11.08 13:40:45 INFO  [error] 	    +- org.scala-lang:toolkit_3:0.4.0                     (depends on 4.0.0-M14)
+2024.11.08 13:40:45 INFO  [error] 	    +- com.softwaremill.sttp.client4:upickle_3:4.0.0-M14  (depends on 4.0.0-M14)
+2024.11.08 13:40:45 INFO  [error] 	    +- com.softwaremill.sttp.client4:json-common_3:4.0.0-M14 (depends on 4.0.0-M14)
+2024.11.08 13:40:45 INFO  [error] 
+2024.11.08 13:40:45 INFO  [error] 
+2024.11.08 13:40:45 INFO  [error] this can be overridden using libraryDependencySchemes or evictionErrorLevel
+2024.11.08 13:40:45 INFO  [error] Total time: 5 s, completed Nov 8, 2024, 1:40:45 PM
+2024.11.08 13:40:45 INFO  time: ran 'sbt bloopInstall' in 51s
+2024.11.08 13:40:45 ERROR sbt command failed: C:\Program Files\Java\jdk-17.0.5\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Nicolas\AppData\Local\Temp\metals6689493020439294709\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2024.11.08 13:40:45 INFO  Disconnecting from Bloop session...
+2024.11.08 13:40:45 INFO  Shut down connection with build server.
+2024.11.08 13:40:45 INFO  Shut down connection with build server.
+2024.11.08 13:40:45 INFO  Attempting to connect to the build server...
+2024.11.08 13:40:45 INFO  Found a Bloop server running
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.11.08 13:40:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:40:47 INFO  Attempting to connect to the build server...
+2024.11.08 13:40:47 INFO  Found a Bloop server running
+2024.11.08 13:40:48 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 08, 2024 1:40:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 213
+2024.11.08 13:40:48 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:40:48 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.08 13:40:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\.metals\bsp.trace.json or C:\Users\Nicolas\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.08 13:40:48 INFO  time: Connected to build server in 3.4s
+2024.11.08 13:40:48 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.08 13:40:49 INFO  time: Imported build in 0.25s
+2024.11.08 13:40:49 INFO  running doctor check
+2024.11.08 13:40:49 INFO  java targets: classscraper-build
+2024.11.08 13:40:53 INFO  time: indexed workspace in 4.25s
+2024.11.08 13:40:53 WARN  no build target for: C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\CourseScraper.scala
+2024.11.08 13:40:53 WARN  no build target for: C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala
+2024.11.08 13:41:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:41:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+Nov 08, 2024 1:41:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 222
+2024.11.08 13:41:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:41:23 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:41:24 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:41:29 INFO  no build target found for C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:41:29 INFO  no build target found for c:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:41:29 INFO  no build target found for c:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\src\main\scala\TimeScraper.scala. Using presentation compiler with project's scala-library version: 2.12.18
+2024.11.08 13:41:41 INFO  Shutting down server
+2024.11.08 13:41:41 INFO  shutting down Metals
+2024.11.08 13:41:41 INFO  Shut down connection with build server.
+2024.11.08 13:41:41 INFO  Shut down connection with build server.
+2024.11.08 13:41:41 INFO  Exiting server

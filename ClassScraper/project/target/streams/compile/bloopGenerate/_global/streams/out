@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[classscraper-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[classscraper-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'classscraper-build' to 'C:\Users\Nicolas\Downloads\ClassScraper\project\.bloop\classscraper-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop\classscraper-build.json[0m
+[debug] [classscraper-build] Classpath dependencies List()
+[debug] [classscraper-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'classscraper-build' to 'C:\Users\Nicolas\Documents\AdviseU-Libs\ClassScraper\project\.bloop\classscraper-build.json'
+[success] Generated .bloop\classscraper-build.json
