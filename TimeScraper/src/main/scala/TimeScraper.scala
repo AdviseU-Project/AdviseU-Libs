@@ -44,17 +44,20 @@ object CourseJsonProtocol extends DefaultJsonProtocol {
 }
 
 def saveCourseTimes(courseNumber: String): Unit =
+	while counter.get() == 100 do
+		java.lang.Thread.sleep(1)
 	counter.incrementAndGet()
 	quickRequest
 		.post(uri"https://classes.oregonstate.edu/api/?page=fose&route=search&alias=$courseNumber")
-		.body(s"{\"other\":{\"srcdb\":\"202501\"},\"criteria\":[{\"field\":\"alias\",\"value\":\"$courseNumber\"}]}")
+		.body(s"{\"other\":{\"srcdb\":\"202503\"},\"criteria\":[{\"field\":\"alias\",\"value\":\"$courseNumber\"}]}")
 		.send(backend)
 		.onComplete(response => 
 			if response.isSuccess && response.get.code.code == 200 then
 				os.write(os.pwd / "output" / s"${courseNumber}_times.json", response.get.body)
 				counter.decrementAndGet()
 			else
-				println(s"$courseNumber, not offered"))
+				println(s"$courseNumber, not offered")
+				counter.decrementAndGet())
 
 def readCourseGroup(groupPath: os.Path): List[Course] =
 	os.read(groupPath).parseJson.convertTo[List[Course]]
